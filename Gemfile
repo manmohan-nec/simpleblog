@@ -43,3 +43,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+#this library manages file attachments and uploading, has a dependancy on imagemagick(hint install it via npm or simple rpm)
+gem 'paperclip'
